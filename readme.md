@@ -1,5 +1,7 @@
 # OBS-Zoom-To-Mouse
 
+[中文教程](https://afox.cc/2024/05/20/obs-lua-script-mouse-follow-local-zoom-feature-video-recording/)
+
 An OBS lua script to zoom a display-capture source to focus on the mouse. 
 
 I made this for my own use when recording videos as I wanted a way to zoom into my IDE when highlighting certain sections of code. My particular setup didn't seem to work very well with the existing zooming solutions so I created this.
